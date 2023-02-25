@@ -1,0 +1,8 @@
+//Link for connecting with database
+console.firebase.google.com
+
+//Dashboard
+Realtime Database > AngularProject > Products
+
+//Database for Angularproject methods
+https://angularproject-2f916-default-rtdb.firebaseio.com/
